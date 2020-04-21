@@ -1,0 +1,21 @@
+.fix {
+    width: 50rem;
+    margin: 2rem;
+    margin-top: 2rem;
+    margin-left: 19rem;
+    border: black;
+}
+.label{
+    font-size: 30px;
+    text-align: center;
+}
+.jumbotron{
+    width: 70rem;
+    height: 20rem;
+    margin-left: 11rem;
+    margin-top: .2rem;
+}
+.button{
+font-size: 18px;
+}
+
